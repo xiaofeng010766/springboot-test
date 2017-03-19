@@ -1,0 +1,84 @@
+[2017/03/19 09:38:03.115][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4960 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:38:03.135][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:38:03.136][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:38:13.226][main] INFO  com.demo.Application - Started Application in 11.253 seconds (JVM running for 14.741)
+[2017/03/19 09:44:18.356][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 3392 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:44:18.361][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:44:18.361][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:44:24.835][main] INFO  com.demo.Application - Started Application in 7.515 seconds (JVM running for 8.717)
+[2017/03/19 09:47:03.467][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4792 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:47:03.475][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:47:03.476][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:47:10.047][main] INFO  com.demo.Application - Started Application in 7.412 seconds (JVM running for 8.411)
+[2017/03/19 09:47:34.425][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 2740 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:47:34.431][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:47:34.432][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:47:41.938][main] INFO  com.demo.Application - Started Application in 8.277 seconds (JVM running for 9.385)
+[2017/03/19 09:49:07.950][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4796 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:49:08.001][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:49:08.002][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:49:14.358][main] INFO  com.demo.Application - Started Application in 7.254 seconds (JVM running for 8.348)
+[2017/03/19 09:52:02.453][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 792 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:52:02.457][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:52:02.458][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:52:09.060][main] INFO  com.demo.Application - Started Application in 7.492 seconds (JVM running for 9.158)
+[2017/03/19 09:54:40.244][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5424 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:54:40.251][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:54:40.251][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:54:49.045][main] INFO  com.demo.Application - Started Application in 9.453 seconds (JVM running for 10.465)
+[2017/03/19 09:58:46.133][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 3640 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 09:58:46.138][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 09:58:46.139][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 09:58:55.276][main] INFO  com.demo.Application - Started Application in 9.883 seconds (JVM running for 10.91)
+[2017/03/19 10:02:45.409][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5684 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:02:45.431][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:02:45.431][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:02:55.485][main] INFO  com.demo.Application - Started Application in 11.065 seconds (JVM running for 12.225)
+[2017/03/19 10:05:48.687][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4624 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:05:48.691][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:05:48.692][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:05:58.204][main] INFO  com.demo.Application - Started Application in 10.234 seconds (JVM running for 11.428)
+[2017/03/19 10:06:56.432][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4792 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:06:56.437][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:06:56.437][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:07:05.139][main] INFO  com.demo.Application - Started Application in 9.654 seconds (JVM running for 10.694)
+[2017/03/19 10:09:41.372][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5504 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:09:41.388][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:09:41.389][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:09:50.041][main] INFO  com.demo.Application - Started Application in 9.49 seconds (JVM running for 10.528)
+[2017/03/19 10:17:53.044][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 2196 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:17:53.051][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:17:53.051][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:18:01.280][main] INFO  com.demo.Application - Started Application in 8.93 seconds (JVM running for 9.937)
+[2017/03/19 10:24:56.641][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 2248 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 10:24:56.645][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 10:24:56.646][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 10:25:04.659][main] INFO  com.demo.Application - Started Application in 9.095 seconds (JVM running for 10.085)
+[2017/03/19 12:41:05.568][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 2120 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 12:41:05.574][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 12:41:05.574][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 12:41:31.737][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 4632 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 12:41:31.745][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 12:41:31.746][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 12:41:39.713][main] INFO  com.demo.Application - Started Application in 8.96 seconds (JVM running for 9.99)
+[2017/03/19 12:56:45.838][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5964 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 12:56:45.844][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 12:56:45.844][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 12:56:48.846][main] DEBUG com.demo.common.DataBaseConfig - Configuring Datasource
+[2017/03/19 12:56:55.208][main] INFO  com.demo.Application - Started Application in 10.449 seconds (JVM running for 11.585)
+[2017/03/19 13:00:50.028][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5792 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 13:00:50.034][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 13:00:50.038][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 13:00:52.955][main] DEBUG com.demo.common.DataBaseConfig - Configuring Datasource
+[2017/03/19 13:00:58.442][main] INFO  com.demo.Application - Started Application in 9.454 seconds (JVM running for 10.484)
+[2017/03/19 13:01:47.288][http-nio-8180-exec-3] DEBUG com.demo.dao.StudentDao.findStudent - ==>  Preparing: select id,name from student WHERE id = ? 
+[2017/03/19 13:01:47.419][http-nio-8180-exec-3] DEBUG com.demo.dao.StudentDao.findStudent - ==> Parameters: 1(Integer)
+[2017/03/19 13:01:47.683][http-nio-8180-exec-3] DEBUG com.demo.dao.StudentDao.findStudent - <==      Total: 1
+[2017/03/19 13:02:15.122][main] INFO  com.demo.Application - Starting Application on MS-201608061017 with PID 5892 (E:\git-src\springboot\target\classes started by Administrator in E:\git-src\springboot)
+[2017/03/19 13:02:15.127][main] DEBUG com.demo.Application - Running with Spring Boot v1.3.6.RELEASE, Spring v4.2.7.RELEASE
+[2017/03/19 13:02:15.127][main] INFO  com.demo.Application - No active profile set, falling back to default profiles: default
+[2017/03/19 13:02:18.631][main] DEBUG com.demo.common.DataBaseConfig - Configuring Datasource
+[2017/03/19 13:02:24.176][main] INFO  com.demo.Application - Started Application in 9.79 seconds (JVM running for 10.842)
+[2017/03/19 13:02:47.679][http-nio-8180-exec-1] DEBUG com.demo.dao.StudentDao.findStudent - ==>  Preparing: select id,name from student WHERE id = ? 
+[2017/03/19 13:02:47.732][http-nio-8180-exec-1] DEBUG com.demo.dao.StudentDao.findStudent - ==> Parameters: 2(Integer)
+[2017/03/19 13:02:47.760][http-nio-8180-exec-1] DEBUG com.demo.dao.StudentDao.findStudent - <==      Total: 1
