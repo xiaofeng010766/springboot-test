@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Date;
+
 /**
  * Created by Administrator on 2017/3/19.
  */
@@ -25,5 +27,15 @@ public class StudentRestController {
     @RequestMapping(value = "student/_search",method = RequestMethod.POST,produces = {MediaType.APPLICATION_JSON_VALUE})
     public Student getStudent(@RequestBody StudentParam param){
        return studentService.findStudent(param.getId());
+    }
+
+
+    @RequestMapping("/getStudentInfo")
+    public Student getStudentInfo(){
+        Student student = new Student();
+        student.setId(1);
+        student.setName("張三");
+        student.setBirthday(new Date());
+        return student;
     }
 }
